@@ -1,2 +1,3 @@
-# Documents_Drafts
-First draft generated out of scratch, needs reviews
+Test
+
+This is a sample file. No real content version 1.0
